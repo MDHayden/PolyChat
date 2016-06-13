@@ -1,6 +1,6 @@
 # PolyChat
-[JAVA] Socket UDP
-Project made during my network curse at Polytech Lyon 1 (french engineering school)
+[JAVA] Chat application using UDP sockets
+<br /> Project made during my network curse at Polytech Lyon 1 3rd year (french engineering school)
 
 *********************************************************************************************************************************************
 HOW TO USE ?
