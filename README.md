@@ -5,6 +5,8 @@
 *********************************************************************************************************************************************
 HOW TO USE ?
 
+	MAC USERS : EXECUTE THE APPLICATION IN ADMIN MODE
+
 - You will first be asked to create (or not) a server. If you don't have a server to communicate with, type O (letter o). Otherwise, type N.
 - Enter server's parameters : IP address, port and also a range of ports that you want the server to listen.
 - Same as number one, you will be asked to create or not a client. Type O if you want to, N if you don't
